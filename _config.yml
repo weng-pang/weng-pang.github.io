@@ -1,4 +1,4 @@
 ## Theme setting
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 minimal_mistakes_skin: "default" # "air", "contrast"
 title: "A new coming site"
