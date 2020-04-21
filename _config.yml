@@ -1,2 +1,4 @@
 ## Theme setting
-remote_theme: jmcglone/jmcglone.github.io
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "contrast"
+title: "A new coming site"
